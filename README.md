@@ -14,7 +14,7 @@ Go ahead, let's start!!
  
 After MySQL installed you can also:
   > Create an { DB Admin } role and save your user as "Gerente"<br />
-  > Turn free your network port {3306} <br />  
+  > Turn free your network port {3306}   
   > Rename your SQL Service as {MYSQL57} <br />
 
 **Free Knowlegment, Hell Yeah!**
