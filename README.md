@@ -13,9 +13,9 @@ Go ahead, let's start!!
   - Install a model buidel of UML, like brModelo, Astah or something like that
  
 After MySQL installed you can also:
-  > Create an { DB Admin } role and save your user as "Gerente"
-  > Turn free your network port {3306}  
-  > Rename your SQL Service as {MYSQL57}
+  > Create an { DB Admin } role and save your user as "Gerente"<br />
+  > Turn free your network port {3306} <br />  
+  > Rename your SQL Service as {MYSQL57} <br />
 
 **Free Knowlegment, Hell Yeah!**
 
